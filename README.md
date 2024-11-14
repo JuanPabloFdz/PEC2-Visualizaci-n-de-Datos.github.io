@@ -29,8 +29,8 @@ Puedes ver todas las visualizaciones en la página web del proyecto en GitHub Pa
 
 ## Créditos
 
-- **Autor**: [Tu Nombre](https://github.com/tu-usuario)
-- **Datos**: Datos de emisiones de CO₂ per cápita obtenidos de [nombre de la fuente de datos].
+- **Autor**: [Juan Pablo Fernánndez Botia](https://github.com/tu-usuario)
+- **Datos**: https://ourworldindata.org/grapher/national-gdp-wb , https://ourworldindata.org/grapher/co-emissions-per-capita
 
 ## Licencia
 
