@@ -1,19 +1,19 @@
-# PEC2-Visualizaci-n-de-Datos.github.io
+# PEC2-Visualizacion-de-Datos.github.io
 # Visualizaciones de Emisiones de CO₂
 
 Este repositorio contiene una serie de visualizaciones de datos sobre las emisiones de CO₂ per cápita en distintos países y años. Las visualizaciones han sido creadas usando Tableau y R, y están disponibles para visualización interactiva en una página web publicada en GitHub Pages.
 
 ## Visualizaciones Incluidas
 
-1. **Visualización en Tableau: Mapa de Emisiones de CO₂**: 
-   - Muestra un mapa interactivo de emisiones de CO₂ por país.
+1. **Visualización en Tableau: Proportional Symbol Map esperanza de vida**: 
+   - Muestra un mapa acerca de la esperanza de vida por pais.
    - [Ver en Tableau Public](https://public.tableau.com/shared/FSWHPBSJ2?:display_count=n&:origin=viz_share_link)
 
-2. **Visualización en Tableau: Bar Chart**:
+2. **Visualización en Tableau: Bar Chart  PIB por país**:
    - Un gráfico de barras que muestra las emisiones de CO₂ per cápita por país en el año 2022.
    - [Ver en Tableau Public](https://public.tableau.com/views/JuanPablo_PEC2_BarChart/Emisionespercapitaporpasparaelao2022?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-3. **Visualización en R**:
+3. **Rose Chart**:
    - Visualización estática generada en R que muestra datos adicionales sobre las emisiones de CO₂.
 
 ## Enlace a la Página Web
@@ -30,7 +30,8 @@ Puedes ver todas las visualizaciones en la página web del proyecto en GitHub Pa
 ## Créditos
 
 - **Autor**: [Juan Pablo Fernánndez Botia](https://github.com/tu-usuario)
-- **Datos**: https://ourworldindata.org/grapher/national-gdp-wb , https://ourworldindata.org/grapher/co-emissions-per-capita
+- **Datos**: https://ourworldindata.org/grapher/national-gdp-wb , https://ourworldindata.org/grapher/co-emissions-per-capita, 
+             https://ourworldindata.org/grapher/life-expectancy-hmd-unwpp
 
 ## Licencia
 
